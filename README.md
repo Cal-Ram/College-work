@@ -1,2 +1,2 @@
-# College-work
-This is work that I have done for college, not matter how small, everything can help me become a better programmer
+# College-work-and-learning
+This is the work I have done in college and some of the smaller bits outside of college, every small project helps to make me a better programmer
